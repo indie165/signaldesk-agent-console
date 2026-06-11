@@ -1,0 +1,37 @@
+[
+  {
+    "id": "T001",
+    "title": "VPN keeps disconnecting",
+    "description": "User reports VPN keeps disconnecting and they cannot access company apps.",
+    "category": "device",
+    "risk": "low"
+  },
+  {
+    "id": "T002",
+    "title": "Suspicious email received",
+    "description": "User received an email with an unexpected link asking them to verify their password.",
+    "category": "security",
+    "risk": "high"
+  },
+  {
+    "id": "T003",
+    "title": "Cannot sign into Microsoft 365",
+    "description": "User cannot sign into Microsoft 365 after a password change.",
+    "category": "access",
+    "risk": "low"
+  },
+  {
+    "id": "T004",
+    "title": "Laptop storage almost full",
+    "description": "User reports laptop is showing low disk space warnings.",
+    "category": "device",
+    "risk": "low"
+  },
+  {
+    "id": "T005",
+    "title": "Password reset policy question",
+    "description": "User wants to know the company password reset policy and expiry rules.",
+    "category": "policy",
+    "risk": "low"
+  }
+]

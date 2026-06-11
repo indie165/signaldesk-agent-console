@@ -1,0 +1,37 @@
+[
+  {
+    "id": "KB001",
+    "category": "device",
+    "title": "VPN Troubleshooting Guide",
+    "content": "If VPN keeps disconnecting, first check internet connection stability. Then restart the VPN client and reconnect. If the issue continues, clear the VPN cache and restart the network adapter. Reinstall the VPN client only if the first steps fail. Escalate to IT if disconnections continue after reinstall.",
+    "source": "Fictional IT Support Handbook v2.1, Section 4"
+  },
+  {
+    "id": "KB002",
+    "category": "security",
+    "title": "Suspicious Email Response Protocol",
+    "content": "Do not click any links or open attachments in the suspicious email. Report the message to the security team using the phishing report process. If the user already clicked a link, treat it as a high-risk incident and start the security review workflow. Do not delete the email until security review is complete.",
+    "source": "Fictional Security Policy Manual v1.4, Section 7"
+  },
+  {
+    "id": "KB003",
+    "category": "access",
+    "title": "Microsoft 365 Sign-In Issues",
+    "content": "After a password change, sign out of all Microsoft 365 sessions and sign back in with the new credentials. Clear browser cache if using the web app. If MFA is blocking access, use the authenticator app to approve the login request. Escalate if the user cannot complete MFA.",
+    "source": "Fictional IT Support Handbook v2.1, Section 9"
+  },
+  {
+    "id": "KB004",
+    "category": "device",
+    "title": "Low Disk Space Resolution",
+    "content": "Run Disk Cleanup to remove temporary files. Uninstall unused applications through system settings. Move large work files to approved cloud storage. If storage remains below 5GB after cleanup, submit a hardware review request.",
+    "source": "Fictional IT Support Handbook v2.1, Section 6"
+  },
+  {
+    "id": "KB005",
+    "category": "policy",
+    "title": "Password Reset Policy",
+    "content": "Passwords must be at least 12 characters and include uppercase letters, lowercase letters, a number, and a special character. Users can reset their password through the fictional self-service reset portal. Password reset requests involving suspected compromise must be reviewed by IT Security.",
+    "source": "Fictional Company Security Policy v3.0, Section 2"
+  }
+]
